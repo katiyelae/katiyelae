@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katiyelae
-- 👀 I’m interested in ... matcha lattes, new music, and becoming a Software Engineer!
-- 🌱 I’m currently learning ... Javascript & how to draw
+- 👀 I’m interested in ... matcha lattes, new music, reading and becoming a Software Engineer!
+- 🌱 I’m currently learning ... React JS & Firebase
 - 💞️ I’m looking to collaborate on ...freelance and open source projects!
 - 📫 How to reach me ... kati.majorealey@gmail.com
 
